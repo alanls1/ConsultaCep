@@ -75,13 +75,9 @@ src
 │   │   └── com
 │   │       └── exemplo
 │   │           └── consultaCep
-│   │               ├── ConsultaCepApplication.java
-│   │               ├── controller
-│   │               │   └── CepController.java
-│   │               ├── model
-│   │               │   └── Endereco.java
-│   │               └── service
-│   │                   └── CepService.java
+│   │               ├── CepResultDTO.java
+│   │               ├── ConsultaCepAPI.java
+│   │                   
 │   └── resources
 │       └── application.properties
 └── test
